@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![](https://disk.yandex.ru/i/YDuQ3P0ReOR6Xw)
+![](https://imgur.com/a/jqD4Bx1)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
